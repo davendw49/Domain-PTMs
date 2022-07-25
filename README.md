@@ -14,7 +14,7 @@
 
 ## Biomedical Pre-Train Language Models
 
-![bio ptm](/NLP/PTM/bioptm.png)
+![bio ptm](./bioptm.png)
 
 ## Interesting Domain Pre-train Models
 
