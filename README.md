@@ -1,4 +1,4 @@
-# Domain Pre-Train Language models
+# Domain Pre-Trained Language models
 ---
 
 ## Awesome Domain Pre-Train Language models
